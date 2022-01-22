@@ -1,0 +1,16 @@
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\bin\Debug\net5.0\TestingReflection.exe
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\bin\Debug\net5.0\TestingReflection.deps.json
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\bin\Debug\net5.0\TestingReflection.runtimeconfig.json
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\bin\Debug\net5.0\TestingReflection.runtimeconfig.dev.json
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\bin\Debug\net5.0\TestingReflection.dll
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\bin\Debug\net5.0\ref\TestingReflection.dll
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\bin\Debug\net5.0\TestingReflection.pdb
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.csprojAssemblyReference.cache
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.AssemblyInfoInputs.cache
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.AssemblyInfo.cs
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.csproj.CoreCompileInputs.cache
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.dll
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\ref\TestingReflection.dll
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.pdb
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection\obj\Debug\net5.0\TestingReflection.genruntimeconfig.cache

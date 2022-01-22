@@ -1,0 +1,4 @@
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection.Domain\obj\Debug\netcoreapp3.1\TestingReflection.Domain.csprojAssemblyReference.cache
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection.Domain\obj\Debug\netcoreapp3.1\TestingReflection.Domain.AssemblyInfoInputs.cache
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection.Domain\obj\Debug\netcoreapp3.1\TestingReflection.Domain.AssemblyInfo.cs
+C:\Users\junior\Documents\Projetos\TestingReflection\TestingReflection.Domain\obj\Debug\netcoreapp3.1\TestingReflection.Domain.csproj.CoreCompileInputs.cache
